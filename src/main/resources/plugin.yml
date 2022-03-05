@@ -1,0 +1,6 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: com.keyshuo.myfirstplugin.MyFirstPlugin
+api-version: 1.18
+prefix: MyFirstPlugin
+depend: [CustomPotionAPI]
